@@ -4,8 +4,8 @@ email: 2595040068@qq.com
 description: >-
   Personal homepage of Jin Haoyu, a Software Engineering (Java Direction) student at Hainan University, focusing on Java backend development, distributed systems and cloud-native applications.
 baseurl: "" # 留空即可（GitHub Pages 根目录）
-url: "https://jinjay886.github.io"
-github_username: jinjay886
+url: "https://Jinjay886.github.io"
+github_username: Jinjay886
 
 # Jekyll 配置
 markdown: kramdown
